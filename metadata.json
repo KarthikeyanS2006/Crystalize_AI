@@ -1,0 +1,5 @@
+{
+  "name": "Crystallize AI",
+  "description": "A knowledge accumulation platform that uses Gemini v2.5 Flash with Google Search Grounding to analyze data, extract insights, and store them in a structured 'crystallized' intelligence database.",
+  "requestFramePermissions": []
+}
