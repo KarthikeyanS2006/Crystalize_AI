@@ -438,7 +438,10 @@ const App: React.FC = () => {
                 </div>
               </div>
               <p className="text-center text-xs text-gray-400 dark:text-slate-500 mt-2">
-                Powered by Gemini 2.5 Flash with Google Search Grounding
+                Powered by Crystallize AI with Google Search Grounding
+              </p>
+               <p className="text-center text-xs text-gray-400 dark:text-slate-500 mt-2">
+                Build By Karthikeyan S
               </p>
             </div>
           </>
